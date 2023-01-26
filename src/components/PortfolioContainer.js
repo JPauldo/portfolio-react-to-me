@@ -30,7 +30,7 @@ export default function PortfolioContainer() {
   }, [currentPage])
 
   return (
-    <>
+    <div style={{background: '#f0f8ff'}}>
       <Header currentPage={currentPage} handlePageSwitch={handlePageSwitch} />
       <main className="columns is-centered my-3">
         <div className="column is-one-quarter">
@@ -38,6 +38,6 @@ export default function PortfolioContainer() {
         </div>
       </main>
       {/* <Footer /> */}
-    </>
+    </div>
   );
 }
