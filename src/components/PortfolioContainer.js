@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Footer from "./Footer";
 import Header from "./Header";
 import AboutMe from "./pages/AboutMe";
@@ -25,11 +25,17 @@ export default function PortfolioContainer() {
 
   const handlePageSwitch = (page) => setCurrentPage(page);
 
+  useEffect(() => {
+    document.title = currentPage;
+  }, [currentPage])
+
   return (
     <>
       <Header currentPage={currentPage} handlePageSwitch={handlePageSwitch} />
-      <main>
-        {renderPage()}
+      <main className="columns is-centered my-3">
+        <div className="column is-one-quarter">
+          {renderPage()}
+        </div>
       </main>
       {/* <Footer /> */}
     </>
