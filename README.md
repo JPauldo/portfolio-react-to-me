@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+# React to Me! (My Portfolio)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![MIT%20License Badge](https://img.shields.io/badge/License-MIT%20License-red)](https://choosealicense.com/licenses/mit/)
+
+## Description
+
+This is application is the react implementation of my portfolio. I hope it leaves you stunned, with mouths agap!
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Tests](#tests)
+- [How to Contribute](#how-to-contribute)
+
+## Installation
+
+If you would like to run this application, please run the following command(s) to install the necessary requirements:
+```
+npm i
+```
 
 ## Available Scripts
 
@@ -39,32 +58,27 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+It is quite intuitive. Why not just give it a try?
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Below is a demonstration of the application: 
 
-### Code Splitting
+![Alt Text for Placeholder](https://via.placeholder.com/150)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
+This repo utilizes the MIT license. If you would like to know more information, you can check out its [license page](https://choosealicense.com/licenses/mit/) for its permissions, conditions and limitations.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Tests
 
-### Making a Progressive Web App
+If you would like to run tests for this repo, please run the following command(s):
+```
+npm test
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## How to Contribute
 
-### Advanced Configuration
+If you would like to contribute, feel free to reach out to me at [jdpauldo94@gmail.com](mailto:jdpauldo94@gmail.com).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you like what you see here, please feel free to checkout my other work on my [Github page](https://github.com/JPauldo).
