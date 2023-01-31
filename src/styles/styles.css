@@ -1,0 +1,36 @@
+.navbar-link.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover {
+  background-color: #3e8ed0;
+}
+/* Formatting for the Project Section */
+.project-grid {
+  display: inline-grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px 25px;
+  margin-right: 20px;
+}
+
+.project-frame {
+  border: 2px solid #9F86C0;
+  position: relative;
+  min-height: 150px;
+  min-width: 400px;
+  transition: 0.3s;
+}
+
+.project-grid figure {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+/* Formatting for the Project Tiles */
+
+/* Hovering Logic the Project Tile */
+.project-frame:hover {
+  cursor: pointer;
+  scale: 1.06;
+}
+
+/* Key frames for backgroundScroll */

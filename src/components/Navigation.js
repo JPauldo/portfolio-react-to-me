@@ -46,8 +46,9 @@ function Navigation({ currentPage, handlePageChange }) {
         <p className="level-item has-text-centered">
           <a 
             className={ currentPage === 'Resume' ? "navbar-item icon-text link is-size-2 has-text-dark" : "navbar-item icon-text link is-size-3" } 
-            href="#Resume"
-            onClick={() => handlePageChange('Resume')}>
+            href="https://drive.google.com/file/d/1NltC3_G4YLM5xhltlGzINPQdicnkbvfl/view?usp=sharing"
+            target="_blank"
+            rel="noreferrer">
             <span className="icon is-small">
               <i className="fa-regular fa-file"></i>
             </span>
