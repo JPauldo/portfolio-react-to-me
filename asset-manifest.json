@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-to-me/static/css/main.fd4357e1.css",
+    "main.js": "/portfolio-react-to-me/static/js/main.ce43eb51.js",
+    "static/media/word-of-my-life-demo.gif": "/portfolio-react-to-me/static/media/word-of-my-life-demo.b22c70d31422316d9f28.gif",
+    "static/media/tempo-screenshot.png": "/portfolio-react-to-me/static/media/tempo-screenshot.298e489638d03d1daab4.png",
+    "static/media/gotta-quiz-em-all-demo.gif": "/portfolio-react-to-me/static/media/gotta-quiz-em-all-demo.1886bcf53582b9ceb3c8.gif",
+    "static/media/my-coworkers-and-me-preview.gif": "/portfolio-react-to-me/static/media/my-coworkers-and-me-preview.8b3eda9703d118f9c0b4.gif",
+    "static/media/everybody-talks-screenshot.PNG": "/portfolio-react-to-me/static/media/everybody-talks-screenshot.14644a2fc2b49fd726df.PNG",
+    "static/media/dept-builder-screenshot.PNG": "/portfolio-react-to-me/static/media/dept-builder-screenshot.5ff0b533320fb3eb7ae1.PNG",
+    "index.html": "/portfolio-react-to-me/index.html",
+    "main.fd4357e1.css.map": "/portfolio-react-to-me/static/css/main.fd4357e1.css.map",
+    "main.ce43eb51.js.map": "/portfolio-react-to-me/static/js/main.ce43eb51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd4357e1.css",
+    "static/js/main.ce43eb51.js"
+  ]
+}
